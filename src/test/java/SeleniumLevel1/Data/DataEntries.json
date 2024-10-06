@@ -1,0 +1,18 @@
+[
+{
+	"FirstName":"Mel",
+	"LastName": "Richard",
+	"Age":"30",
+	"Email":"melrich@yahoo.com",
+	"Salary":"5000",
+	"Department":"Audit"
+},
+{
+	"FirstName":"Ria",
+	"LastName": "Joseph",
+	"Age":"28",
+	"Email":"riajose@yahoo.com",
+	"Salary":"6000",
+	"Department":"Corporate"
+}
+]

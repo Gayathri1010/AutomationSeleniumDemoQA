@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-06T11:12:13 IST" name="Default suite" finished-at="2024-10-06T11:15:09 IST" duration-ms="175491">
+    <groups>
+    </groups>
+    <test started-at="2024-10-06T11:12:13 IST" name="Default test" finished-at="2024-10-06T11:15:09 IST" duration-ms="175491">
+      <class name="SeleniumLevel1.AutomationChallenge.StandAloneTest">
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:12:14 IST" name="launchPage" finished-at="2024-10-06T11:13:12 IST" duration-ms="58084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPage -->
+        <test-method signature="StandaloneTest(java.util.HashMap)[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:13:12 IST" name="StandaloneTest" data-provider="dataFunction" finished-at="2024-10-06T11:13:14 IST" duration-ms="2085" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Salary=5000, Department=Audit, Email=melrich@yahoo.com, LastName=Richard, FirstName=Mel, Age=30}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StandaloneTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:13:14 IST" name="tearDown" finished-at="2024-10-06T11:13:14 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:13:14 IST" name="launchPage" finished-at="2024-10-06T11:14:12 IST" duration-ms="57967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPage -->
+        <test-method signature="StandaloneTest(java.util.HashMap)[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:14:12 IST" name="StandaloneTest" data-provider="dataFunction" finished-at="2024-10-06T11:14:13 IST" duration-ms="1395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Salary=6000, Department=Corporate, Email=riajose@yahoo.com, LastName=Joseph, FirstName=Ria, Age=28}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StandaloneTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:14:13 IST" name="tearDown" finished-at="2024-10-06T11:14:14 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:14:14 IST" name="launchPage" finished-at="2024-10-06T11:15:08 IST" duration-ms="54338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPage -->
+        <test-method signature="editRow(java.util.HashMap)[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:15:08 IST" name="editRow" data-provider="rowDataFn" finished-at="2024-10-06T11:15:09 IST" duration-ms="679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Salary=2000, Department=Legal, editRow=2}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editRow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumLevel1.AutomationChallenge.StandAloneTest@515c6049]" started-at="2024-10-06T11:15:09 IST" name="tearDown" finished-at="2024-10-06T11:15:09 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumLevel1.AutomationChallenge.StandAloneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
